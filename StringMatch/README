@@ -1,0 +1,12 @@
+
+QUESTION
+--------------------------
+
+        Write code to evaluvate two strings are equal in length and has exact number of character occurance, and print out the result.
+        
+        
+ABOUT THE CODE
+--------------------
+
+  1.  Done using the oop concept. (can be done without class)
+  2.  Two functions, but only need one function to get the output.
