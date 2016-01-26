@@ -1,0 +1,16 @@
+QUESTION
+--------------------------
+
+        Write a function that evaluates a string as a mathmatical expression and then returns the answer to it.
+    For example "10-5+1" should return 6 as the answer.
+    
+IMPORTANT:
+----------
+        You cannot use the eval() or call_user_func()
+        
+ABOUT THE CODE
+--------------------
+
+  1.  Implimented using the preg_match() and preg_replace().
+  2.  Only using one function.
+  3.  Converting string to array and using switch to impliment the rest.
